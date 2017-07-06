@@ -16,4 +16,4 @@ PR Guideline Checklist:
 
 Mais [aqui](https://stonepayments.atlassian.net/wiki/display/CLEAR/Utilizando+o+Git).
 
-@igormartire
+@mention-team
